@@ -8,7 +8,6 @@ function App() {
     <>
       <Navbar />
       <CssBaseline />
-      <h1>Todos</h1>
       <TodoList />
     </>
   );
